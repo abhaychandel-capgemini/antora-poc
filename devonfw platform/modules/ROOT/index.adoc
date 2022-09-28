@@ -1,0 +1,2 @@
+= Devonfw platform
+:example-caption!:
