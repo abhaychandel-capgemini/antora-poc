@@ -1,2 +1,2 @@
-= Devonfw platform
+= Powerboard
 :example-caption!:
